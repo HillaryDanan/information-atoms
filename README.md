@@ -65,6 +65,7 @@ If you reference these ideas:
   title={Information Atoms: A Research Playground for Multimodal AI},
   author={Danan, Hillary},
   year={2025},
+  month = {June},
   url={https://github.com/HillaryDanan/information-atoms}
 }
 ```
