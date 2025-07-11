@@ -1,5 +1,8 @@
 # Information Atoms: A Research Playground
 
+> Part of the [Cognitive Architectures for AI](https://github.com/HillaryDanan/cognitive-architectures-ai) research program
+
+
 A theoretical exploration of alternative approaches to multimodal AI representation. This is a research sketch, not a production framework.
 
 ## What This Is
